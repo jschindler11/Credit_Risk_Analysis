@@ -7,28 +7,32 @@ The purpose of this analysis is to apply machine learning to predict the risk of
 ## Results
 
 ### Naive Random Oversampling
-<img width="716" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/111151454/212764476-adc5132a-a151-4eb4-a4c3-9bd57bc8b08b.png">
+<img width="714" alt="Screen Shot 2023-01-20 at 11 27 21 AM" src="https://user-images.githubusercontent.com/111151454/213788507-2e76fd98-508a-49ca-93fe-48e3b4ce8f15.png">
+
 
 * Balanced Accuracy Score: 
 * Precision Scores: 
 * Recall Score: 
 
 ### SMOTE Oversampling
-<img width="710" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/111151454/212764499-0ff33c5d-d766-48c1-ae58-ec0b488d8932.png">
+<img width="714" alt="Screen Shot 2023-01-20 at 11 27 51 AM" src="https://user-images.githubusercontent.com/111151454/213788527-957f47e9-ece9-42e1-856d-99d552beaf98.png">
+
 
 * Balanced Accuracy Score: 
 * Precision Score: 
 * Recall Score: 
 
 ### Undersampling
-<img width="714" alt="Undersampling" src="https://user-images.githubusercontent.com/111151454/212764558-3fc3c630-43df-46de-b311-5d9f7c0b26bf.png">
+<img width="714" alt="Screen Shot 2023-01-20 at 11 28 02 AM" src="https://user-images.githubusercontent.com/111151454/213788555-67a5072d-5be5-4c3d-99d6-284d2bacee39.png">
+
 
 * Balanced Accuracy Score: 
 * Precision Scores: 
 * Recall Score: 
 
 ### Combination (Over and Under) Sampling
-<img width="713" alt="Combination (Over and Under) Sampling" src="https://user-images.githubusercontent.com/111151454/212764574-9df0e010-3cdd-493c-a05b-d3a86f1a4e34.png">
+<img width="714" alt="Screen Shot 2023-01-20 at 11 28 13 AM" src="https://user-images.githubusercontent.com/111151454/213788587-9a983f13-7eeb-451d-86eb-77d8d3394f64.png">
+
 
 * Balanced Accuracy Score: 
 * Precision Score:
