@@ -53,7 +53,13 @@ The purpose of this analysis is to apply machine learning to predict the risk of
 * Recall Score: The recall score is 0.91 for high-risk loans and 0.94 for low-risk loans
 
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+After reviewing and comparing all six models:
+* The Easy Ensemble AdaBoost Classifier model had the highest Balanced Accuracy Score of 0.925427358175101
+* All six models showed weak precision in determining high-risk loans. 
+* The Easy Ensemble AdaBoost Classifier model had the best Precision Score for high-risk loans (0.07). Although this score is low, this is due to the dataset classifying 99% of applications as low-risk and only 1% of applications as high-risk 
+* The Easy Ensemble AdaBoost Classifier model had the highest recall score for both high-risk loans (0.91) and low-risk loans (0.94)
+
+Therefore, of the six models used, the Easy Ensemble AdaBoost Classifier model is the best model to use for further analysis.
+
